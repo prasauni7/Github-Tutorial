@@ -1,1 +1,29 @@
 this is text.text file for github.
+
+
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>  </title>
+		<link rel='stylesheet' href='style.css' media='screen'/>
+	</head>
+	<body>
+		  <div class='container'>
+    <header> this is header</header>
+    <nav> 
+		<ul>
+			<li><a href='#'>Home</a> </li>
+			<li><a href='#'>Videos</a> </li>
+			<li><a href='#'>News</a> </li>
+			<li><a href='#'>Highlights</a></li>
+			<li><a href='#'>About Us</a> </li>
+			<li><a href='#'>Contact</a> </li>
+			<li><a href='#'>Players</a> </li>
+		</ul>
+	</nav>
+    <div id='content'>this is content</div>
+
+  </div>
+    <footer>this is footer</footer>
+   </body>
+</html>
